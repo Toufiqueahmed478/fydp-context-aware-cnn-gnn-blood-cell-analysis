@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and generated files
+data/*
+!data/README.md
+models/*.pt
+models/*.pth
+models/*.ckpt
+results/generated/
+*.zip
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+
+# Operating-system files
+.DS_Store
+Thumbs.db

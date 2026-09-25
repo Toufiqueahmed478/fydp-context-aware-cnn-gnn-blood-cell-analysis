@@ -1,0 +1,19 @@
+# Core scientific Python packages
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+PyYAML
+tqdm
+
+# Deep learning
+torch
+torchvision
+torch-geometric
+
+# Dashboard and reports
+gradio
+reportlab
+Pillow
